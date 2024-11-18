@@ -869,7 +869,7 @@ section,
 .portfolio .portfolio-content .portfolio-info .preview-link,
 .portfolio .portfolio-content .portfolio-info .details-link {
   position: absolute;
-  left: calc(50% - 45px);
+  left: calc(56% - 45px);
   font-size: 26px;
   top: calc(50% - 14px);
   color: #fff;
@@ -1290,4 +1290,7 @@ section,
 .app-design img{
   height: 40px;
   
+}
+.bi-link-45deg{
+  display: none !important;
 }
